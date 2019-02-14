@@ -22,8 +22,8 @@ This will be updated while we advance in the sessions.
 <td>Session 1: Linear Regression with One Variable</td>
 <td>Feb 14</td>
 <td>Review of the first week of Andrew Ng's course and introduction to Python.</td>
-<td><a href="/session1/slides.pdf">[slides]</a><br>
-<a href="/session1/python_intro.ipynb">[notebook]</a></td>
+<td><a href="/session2/slides.pdf">[slides]</a><br>
+<a href="/session2/python_intro.ipynb">[notebook]</a></td>
 </tr>
 </tbody>
 </table>
